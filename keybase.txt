@@ -1,0 +1,69 @@
+https://keybase.io/tampakrap
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tampakrap.gr
+  * I am tampakrap (https://keybase.io/tampakrap) on keybase.
+  * I have a public key with fingerprint 7B66 9D4E 34C3 DE6C 928A  317B 9640 E4FA 2948 5B97
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014a1673b757900d31893b94b931e1d6ae1de4b4fb7b1ec1fb27d5d946cf2e5f8f0a",
+      "fingerprint": "7b669d4e34c3de6c928a317b9640e4fa29485b97",
+      "host": "keybase.io",
+      "key_id": "9640e4fa29485b97",
+      "kid": "01014a1673b757900d31893b94b931e1d6ae1de4b4fb7b1ec1fb27d5d946cf2e5f8f0a",
+      "uid": "7b605fdab03e7c25f1c56747e186c400",
+      "username": "tampakrap"
+    },
+    "service": {
+      "hostname": "tampakrap.gr",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1518259310,
+  "expire_in": 157680000,
+  "prev": "79546bd98c537944d17f9a85ab1989200f3307df20b495cb494f6940576ec3ab",
+  "seqno": 105,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUm9QFGUcvjsgh1MmRCBQAVmSMBB2b/9DWIlQWkRlOMJxHPvuvntuwN25uxz/
+mUxFQGQIiJh0nKFooKQpYJrQqaaRQEgmEh0ZNRNPJVBzmHSKIrJdJ780fez98Hvn
+/b3P87zP85u3OcDHYDaOXbRO00OhLxpPzwFDbs24XIkAl1COJFcihfDBBosEqKj2
+QklAkhEUQzGCwygaBzRJsygq4BjD4oAlAItjEBMoTiuQAIQIaIBBHhOBhRZIgSUo
+XrRAUmRElEMSEFFyOqDsliWnqsnSgKJYgYA4weMCpHjWwnA4RgOWIlBIiJyFJRgS
+sLRG3OVSdIZmDnAKTJRcWk872B/Y+w/8/+y75IGc5hclRYEDKA5p3kKKGE9SNEFD
+jKF4AkV1oAJlJ1cMNbTKFbu5QplzI9UJiNb2SDzUJ6tH+Tck0SFrZLfsUl28q0i7
+2aWqbiVZZ6rlbh1aCoH9HxE7kJyCNkiN4YGyIrmcSDKmIXlV0lUxEmMspJYPTUBg
+mVuSoV3SESRNMai29HegR4/DkgQFrALL8CROswQhYLTIcgzJAYxlWAuKijiO0oJo
+QQHBkrxWCJFiCVRTgjzOAUTPtdvp0sRRUnPKOTRVRXI4ObVEhki1ud6E+xqMZkNE
+aLRvydEPAnJTNm8suJ914uH38zPpf89g9g982InaF2g4ENjuubbjhs8ouJz9XtDr
+5bNHbwxvrt/y3I/FzstHgqM6PMY91hjuTm/q20tya/1Sb1zTuttDuWHfZ/sMdT2P
+9j89uG40Y7393orDpRsWrttg/t1gu2/DD9lRn3913Djc9fsar8cd17mq0fpnGZI6
+PLkpKOFSWo4yTi76p9163O/cmJc9WZV+PrIiZy6r762ZobnUvm87aneczVse/kIN
+X1Ux8pp3uj/zp1UDgU8oi6HfHeq90t8RVhkdUTGf1JIV0hD25ZOmAzMFP1/t3B9w
+d7jr/YwraL/RXDfBnK1fqIs/5zk03ua/aWbnxYam7uC+npx7SZbSUPlY1+yrbc1e
+S+O8C7lQVsEKW2FqW9pjCws3G48AvGbifM/eEd9TJ3zi9w8W3Qz75etlo7dc+R6f
+FSnqSxlTGd7J1bvTFwc6az62ZTHGU45rU9dTxvYGxB5X0u2P7Dt9+ym4NnK9n3GZ
+13TwjarIPS//IYz8lbcl592Vy1duH2+tXIrtjE66k5lp2O7bPr0tqmpnWcnWtbFk
+pHKfq61+Jf+TC1e3LQXVHXvm2QLEsKYxUBmfOhlXE9HSkvfNRumS8Z2oybgZ2/yZ
+Dz97szS8udgW0hnijLMmz1dlJLZPdDs+tX+EmtSmfL6udbA2G7dWR8cvxDTZus1B
+ZbPl4TYT0V9w+NdHR22re75IPDMQ9lvShpiDfwM=
+=Qons
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tampakrap
