@@ -5,63 +5,47 @@ I hereby claim:
 
   * I am an admin of https://tampakrap.gr
   * I am tampakrap (https://keybase.io/tampakrap) on keybase.
-  * I have a public key with fingerprint 7B66 9D4E 34C3 DE6C 928A  317B 9640 E4FA 2948 5B97
+  * I have a public key ASC7hmpJEoLPpOxjEB1krwRnFWdAevEjWsLgs65BLKWcEAo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "01014a1673b757900d31893b94b931e1d6ae1de4b4fb7b1ec1fb27d5d946cf2e5f8f0a",
-      "fingerprint": "7b669d4e34c3de6c928a317b9640e4fa29485b97",
+      "eldest_kid": "0120bb866a491282cfa4ec63101d64af04671567407af1235ac2e0b3ae412ca59c100a",
       "host": "keybase.io",
-      "key_id": "9640e4fa29485b97",
-      "kid": "01014a1673b757900d31893b94b931e1d6ae1de4b4fb7b1ec1fb27d5d946cf2e5f8f0a",
+      "kid": "0120bb866a491282cfa4ec63101d64af04671567407af1235ac2e0b3ae412ca59c100a",
       "uid": "7b605fdab03e7c25f1c56747e186c400",
       "username": "tampakrap"
     },
+    "merkle_root": {
+      "ctime": 1559424234,
+      "hash": "1ff586c815e26522ba7ca3db88ab7806e9a77bfa148c5fe988e10956e8ad0532ee6121f478f05f5ba3c98f2785d22fa0da99b4d1124594614a2b2cdf8e878f1a",
+      "hash_meta": "67b702b5055dfacc9f8d7446f3a4d59535e1215fc51bf1422ec226163870c9f5",
+      "seqno": 5489577
+    },
     "service": {
+      "entropy": "T4+M0dIemxag2kQgSlL+oC8U",
       "hostname": "tampakrap.gr",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1518259310,
-  "expire_in": 157680000,
-  "prev": "79546bd98c537944d17f9a85ab1989200f3307df20b495cb494f6940576ec3ab",
-  "seqno": 105,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1559424241,
+  "expire_in": 504576000,
+  "prev": "23ac8fde1b304787230cb2d766da84a8e93dc278000cd3aa017cc76214a51dcc",
+  "seqno": 125,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-
-owGtUm9QFGUcvjsgh1MmRCBQAVmSMBB2b/9DWIlQWkRlOMJxHPvuvntuwN25uxz/
-mUxFQGQIiJh0nKFooKQpYJrQqaaRQEgmEh0ZNRNPJVBzmHSKIrJdJ780fez98Hvn
-/b3P87zP85u3OcDHYDaOXbRO00OhLxpPzwFDbs24XIkAl1COJFcihfDBBosEqKj2
-QklAkhEUQzGCwygaBzRJsygq4BjD4oAlAItjEBMoTiuQAIQIaIBBHhOBhRZIgSUo
-XrRAUmRElEMSEFFyOqDsliWnqsnSgKJYgYA4weMCpHjWwnA4RgOWIlBIiJyFJRgS
-sLRG3OVSdIZmDnAKTJRcWk872B/Y+w/8/+y75IGc5hclRYEDKA5p3kKKGE9SNEFD
-jKF4AkV1oAJlJ1cMNbTKFbu5QplzI9UJiNb2SDzUJ6tH+Tck0SFrZLfsUl28q0i7
-2aWqbiVZZ6rlbh1aCoH9HxE7kJyCNkiN4YGyIrmcSDKmIXlV0lUxEmMspJYPTUBg
-mVuSoV3SESRNMai29HegR4/DkgQFrALL8CROswQhYLTIcgzJAYxlWAuKijiO0oJo
-QQHBkrxWCJFiCVRTgjzOAUTPtdvp0sRRUnPKOTRVRXI4ObVEhki1ud6E+xqMZkNE
-aLRvydEPAnJTNm8suJ914uH38zPpf89g9g982InaF2g4ENjuubbjhs8ouJz9XtDr
-5bNHbwxvrt/y3I/FzstHgqM6PMY91hjuTm/q20tya/1Sb1zTuttDuWHfZ/sMdT2P
-9j89uG40Y7393orDpRsWrttg/t1gu2/DD9lRn3913Djc9fsar8cd17mq0fpnGZI6
-PLkpKOFSWo4yTi76p9163O/cmJc9WZV+PrIiZy6r762ZobnUvm87aneczVse/kIN
-X1Ux8pp3uj/zp1UDgU8oi6HfHeq90t8RVhkdUTGf1JIV0hD25ZOmAzMFP1/t3B9w
-d7jr/YwraL/RXDfBnK1fqIs/5zk03ua/aWbnxYam7uC+npx7SZbSUPlY1+yrbc1e
-S+O8C7lQVsEKW2FqW9pjCws3G48AvGbifM/eEd9TJ3zi9w8W3Qz75etlo7dc+R6f
-FSnqSxlTGd7J1bvTFwc6az62ZTHGU45rU9dTxvYGxB5X0u2P7Dt9+ym4NnK9n3GZ
-13TwjarIPS//IYz8lbcl592Vy1duH2+tXIrtjE66k5lp2O7bPr0tqmpnWcnWtbFk
-pHKfq61+Jf+TC1e3LQXVHXvm2QLEsKYxUBmfOhlXE9HSkvfNRumS8Z2oybgZ2/yZ
-Dz97szS8udgW0hnijLMmz1dlJLZPdDs+tX+EmtSmfL6udbA2G7dWR8cvxDTZus1B
-ZbPl4TYT0V9w+NdHR22re75IPDMQ9lvShpiDfwM=
-=Qons
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgu4ZqSRKCz6TsYxAdZK8EZxVnQHrxI1rC4LOuQSylnBAKp3BheWxvYWTESpcCfcQgI6yP3hswR4cjDLLXZtqEqOk9wngADNOqAXzHYhSlHczEIKldcKH1ZCrBGYzCGxONAQ6Eg+op5TaSTXs0qt7WRum0AgHCo3NpZ8RA6wCG7ZWT6a1JkO9hZqKNgu8ndR07JSUEidGcQMT1BCNK93oLFbLUUgvECVwlGTnKK4k401ZDFj+lCtXUki4jCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOFcr99tm63kVGhNIPYOJpaxya3vAXU0vYaXRoABl832o3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
