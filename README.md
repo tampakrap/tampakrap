@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<a rel="me" href="https://libretooth.gr/@tampakrap">Mastodon</a>
-
 <!--
 **tampakrap/tampakrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
